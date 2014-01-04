@@ -1,2 +1,6 @@
 nytimes
 requests
+numpy
+scipy
+scikit-learn
+pymongo
